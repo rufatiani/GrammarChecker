@@ -1,0 +1,22 @@
+Sedangkan	CC
+,	Z
+human	X
+capital	X
+yang	SC
+dimiliki	VB
+masyarakat	NN
+dengan	SC,IN 
+adanya	NN
+eksplorasi	NN
+gas alam	NN
+mendapat	VB
+kemajuan	NN
+,	Z
+terutama	JJ
+dari	IN
+segi	NN
+kemampuan	NN
+komunikasi	NN
+dan	CC
+pendidikan	NN
+.	Z
